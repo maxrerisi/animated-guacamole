@@ -1,0 +1,8 @@
+make it pull class / assignment data from a git repo
+
+somehow have a way of tracking grade averages across an assessment
+
+ensure data is anonymous?
+
+
+log in w/ google?
